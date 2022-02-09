@@ -1,13 +1,15 @@
 
 .island{
     order: 1;
+       
     
 }
 .island_checked{
     order: 2;
 }
 .island_checked label{
-    text-decoration: line-through;
+    text-decoration: line-through;   
+    
     
 
 }
