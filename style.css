@@ -1,0 +1,43 @@
+
+.island{
+    order: 1;
+    
+}
+.island_checked{
+    order: 2;
+}
+.island_checked label{
+    text-decoration: line-through;
+    
+
+}
+#list{
+    display: flex;
+    flex-direction: column;
+
+}
+.island .form_edit{
+    display: none;
+
+}
+
+.island_edit .btn_edit{
+    display: none;
+
+   
+}
+
+
+.island_edit label{
+    display: none;
+}
+
+
+.island_edit .form_edit{
+    display: flex;
+    
+    
+
+
+}
+
